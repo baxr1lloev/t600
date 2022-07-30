@@ -1,0 +1,101 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    padding-left: 150px;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    background-color: #F0F0F0;
+    margin-bottom: 60px;
+}
+
+.p_header {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    font-size: 24px;
+    padding-right: 30px;
+}
+
+.email_header {
+    padding-left: 720px;
+    font-size: 24px;
+    padding-right: 30px;
+}
+
+.img_header {
+    cursor: pointer;
+    width: 28px;
+}
+
+.email {
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 150px;
+    color: #0047FF;
+    padding-bottom: 100px;
+    padding-top: 10px;
+}
+
+.my_coshelyog {
+    font-weight: bold;
+    padding-left: 150px;
+    font-size: 38px;
+}
+
+.card_div {
+    padding-top: 20px;
+    width: 100%;
+    margin-top: 30px;
+    margin-left: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.visa_box {
+    margin-right: 50px;
+    background-color: #32248b;
+    width: 329px;
+    border-radius: 15px;
+    border: none;
+    height: 200px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.visa {
+    color: white;
+    font-size: 28px;
+}
+
+.rub {
+    padding-top: 100px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.btn_add {
+    cursor: pointer;
+    background-color: #0047FF;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    height: 56px;
+    width: 438px;
+    border-radius: 8px;
+    margin-left: 150px;
+    margin-top: 50px;
+    border: none;
+}

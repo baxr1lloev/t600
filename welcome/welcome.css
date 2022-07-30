@@ -1,0 +1,201 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    padding-left: 150px;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    background-color: #F0F0F0;
+    margin-bottom: 60px;
+}
+
+.p_header {
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+    font-size: 24px;
+    padding-right: 30px;
+}
+
+.email_header {
+    padding-left: 720px;
+    font-size: 24px;
+    padding-right: 30px;
+}
+
+.img_header {
+    cursor: pointer;
+    width: 28px;
+}
+
+.well_come_p {
+    font-weight: bold;
+    padding-left: 150px;
+    font-size: 48px;
+    padding-bottom: 20px;
+}
+
+.email {
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 150px;
+    color: #0047FF;
+    padding-bottom: 100px;
+}
+
+.my_coshelyog {
+    padding-left: 150px;
+    font-size: 38px;
+}
+
+.card_div {
+    padding-top: 20px;
+    width: 90%;
+    margin-top: 30px;
+    margin-left: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.visa_box {
+    margin-right: 50px;
+    background-color: #32248b;
+    width: 329px;
+    border-radius: 15px;
+    border: none;
+    height: 200px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.visa {
+    color: white;
+    font-size: 28px;
+}
+
+.rub {
+    padding-top: 100px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.href {
+    font-weight: bold;
+    padding-left: 155px;
+    font-size: 20px;
+}
+
+.poslidniy {
+    padding-top: 80px;
+    padding-left: 150px;
+    font-size: 38px;
+}
+
+.father {
+    margin-left: 150px;
+    width: 90%;
+    height: 150px;
+    margin-bottom: 40px;
+}
+
+.info {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 40px;
+}
+
+.info_p {
+    color: #B9C0D1;
+    font-size: 24px;
+}
+
+.id {
+    padding-left: 5px;
+}
+
+.set_coshelyog {
+    padding-left: 240px;
+}
+
+.categoriya {
+    padding-left: 200px;
+}
+
+.sum {
+    padding-left: 220px;
+}
+
+.when {
+    padding-left: 160px;
+}
+
+.pochemu_net_deneg {
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+}
+
+.id_div {
+    font-weight: bold;
+    font-size: 24px;
+    height: 35px;
+    padding-left: 5px;
+    width: 265px;
+    display: flex;
+    align-items: center;
+}
+
+.set_coshelyog_div {
+    font-weight: bold;
+    font-size: 24px;
+    height: 35px;
+    width: 320px;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.categoriya_div {
+    font-weight: bold;
+    font-size: 24px;
+    height: 35px;
+    width: 310px;
+    display: flex;
+    align-items: center;
+    margin-left: 140px;
+}
+
+.sum_div {
+    font-weight: bold;
+    font-size: 24px;
+    height: 35px;
+    width: 330px;
+    display: flex;
+    align-items: center;
+    margin-left: 35px;
+}
+
+.when_div {
+    font-weight: bold;
+    font-size: 24px;
+    height: 35px;
+    width: 180px;
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+}
